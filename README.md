@@ -14,5 +14,5 @@
 
 
 <h5>Lesson Materials</h5>
-lesson plan: https://docs.google.com/document/d/1QNfmvghfVYfv_UBTg9SZRgTA3f56BtuWlsVVaB8lbB0/edit?usp=sharing
+lesson plan: https://docs.google.com/document/d/1QNfmvghfVYfv_UBTg9SZRgTA3f56BtuWlsVVaB8lbB0/edit?usp=sharing </br>
 slides: https://docs.google.com/presentation/d/1j653U8pW4VZOHTM076EHCvImeYUJiRceiQlfWKCLd8c/edit?usp=sharing
